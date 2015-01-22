@@ -25,6 +25,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## This Function  will create inverse matrix fro object X
+# If not calculated it will be null
+# if not  , we get x&get to get the matrix object
 
 cacheSolve <- function(x, ...) {
        
