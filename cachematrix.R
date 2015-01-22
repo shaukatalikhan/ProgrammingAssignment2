@@ -40,7 +40,7 @@ cacheSolve <- function(x, ...) {
 
 # Test
  
-  matrix1 <- matrix(runif(9,1,100),3,3)
+  matrix1 <- matrix(runif(6,4,90),3,3)
 
   # generate the makeCacheMatrix object with this matrix
 
